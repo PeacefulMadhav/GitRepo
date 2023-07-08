@@ -1,2 +1,2 @@
 console.log('Hola Git!!')
-console.log('Good Day')
+console.log('Good Day2')
